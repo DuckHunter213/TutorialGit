@@ -7,3 +7,8 @@ var es = {
 	"title" : "Español",
 	"subtitle" : "text en español"
 }
+
+var fr = {
+	"title" : "French",
+	"subtitle" : "text en french"
+}
