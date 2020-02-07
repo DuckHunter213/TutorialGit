@@ -1,0 +1,9 @@
+var en = {
+	"title" : "English",
+	"subtitle" : "text in english"
+}
+
+var es = {
+	"title" : "Español",
+	"subtitle" : "text en español"
+}
